@@ -281,6 +281,16 @@
       "value": "Diena"
     }
   ],
+  "label.days": [
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": "d"
+    }
+  ],
   "label.default-date-range": [
     {
       "type": 0,
@@ -531,6 +541,16 @@
     {
       "type": 0,
       "value": "Hosts"
+    }
+  ],
+  "label.hours": [
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": "h"
     }
   ],
   "label.insights": [
@@ -830,10 +850,30 @@
       "value": "Nariai"
     }
   ],
+  "label.milliseconds": [
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": "ms"
+    }
+  ],
   "label.min": [
     {
       "type": 0,
       "value": "Min"
+    }
+  ],
+  "label.minutes": [
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": "m"
     }
   ],
   "label.mobile": [
@@ -1190,6 +1230,16 @@
     {
       "type": 0,
       "value": "Ieškoti"
+    }
+  ],
+  "label.seconds": [
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": "s"
     }
   ],
   "label.select": [

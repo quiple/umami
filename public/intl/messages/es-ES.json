@@ -281,6 +281,16 @@
       "value": "Día"
     }
   ],
+  "label.days": [
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": "d"
+    }
+  ],
   "label.default-date-range": [
     {
       "type": 0,
@@ -533,6 +543,16 @@
       "value": "Hosts"
     }
   ],
+  "label.hours": [
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": "h"
+    }
+  ],
   "label.insights": [
     {
       "type": 0,
@@ -725,10 +745,30 @@
       "value": "Miembros"
     }
   ],
+  "label.milliseconds": [
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": "ms"
+    }
+  ],
   "label.min": [
     {
       "type": 0,
       "value": "Min"
+    }
+  ],
+  "label.minutes": [
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": "m"
     }
   ],
   "label.mobile": [
@@ -1085,6 +1125,16 @@
     {
       "type": 0,
       "value": "Buscar"
+    }
+  ],
+  "label.seconds": [
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": "s"
     }
   ],
   "label.select": [
